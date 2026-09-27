@@ -1,0 +1,7 @@
+
+Admin State    State          Type             Interface Name
+-------------------------------------------------------------------------
+Enabled        Connected      Dedicated        Wi-Fi
+Enabled        Disconnected   Dedicated        Ethernet
+Enabled        Connected      Dedicated        Ethernet 2
+Disabled       Disconnected   Dedicated        Bluetooth Network Connection

@@ -1,0 +1,52 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-7QK2M1A
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-33-44-55-66
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : lan
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : A4-BB-6D-1F-88-77
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1234:5678:9abc:def0%12(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.1.50(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, September 24, 2026 8:15:03 PM
+   Lease Expires . . . . . . . . . . : Friday, September 25, 2026 8:15:03 PM
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 123456789
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-BC-DE-F0-A4-BB-6D-1F-88-77
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+                                       1.1.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  :
+   Description . . . . . . . . . . . : Realtek Gaming GbE Family Controller
+   Physical Address. . . . . . . . . : B4-2E-99-AA-CC-EE
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:db8::100(Preferred)
+   Link-local IPv6 Address . . . . . : fe80::aabb:ccff:feee:0011%5(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.0.0.2(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.0.0.1
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+   NetBIOS over Tcpip. . . . . . . . : Enabled

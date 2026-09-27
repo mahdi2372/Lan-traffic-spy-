@@ -1,0 +1,4 @@
+gateway (192.168.1.1) at 00:11:22:33:44:55 [ether] on eth0
+? (192.168.1.20) at a4:bb:6d:1f:88:77 [ether] on eth0
+? (192.168.1.30) at <incomplete> on eth0
+printer (192.168.1.40) at 00:e0:4c:68:11:22 [ether] on eth0

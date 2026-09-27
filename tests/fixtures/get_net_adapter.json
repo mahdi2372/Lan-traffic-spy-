@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Wi-Fi",
+        "InterfaceDescription": "Intel(R) Wi-Fi 6 AX201 160MHz",
+        "MacAddress": "A4-BB-6D-1F-88-77",
+        "Status": "Up",
+        "LinkSpeed": "1.2 Gbps",
+        "NlMtu": 1500
+    },
+    {
+        "Name": "Ethernet",
+        "InterfaceDescription": "Realtek Gaming GbE Family Controller",
+        "MacAddress": "B4-2E-99-AA-CC-EE",
+        "Status": "Disconnected",
+        "LinkSpeed": "0 bps",
+        "NlMtu": 1500
+    },
+    {
+        "Name": "Loopback Pseudo-Interface 1",
+        "InterfaceDescription": "Software Loopback Interface 1",
+        "MacAddress": "00-00-00-00-00-00",
+        "Status": "Up",
+        "LinkSpeed": "1 Gbps",
+        "NlMtu": 4294967295
+    }
+]
