@@ -1,0 +1,17 @@
+
+Interface 12: Wi-Fi
+
+Internet Address                              Physical Address      Type
+--------------------------------------------  -------------------------------------
+192.168.1.1                                   00-11-22-33-44-55     Reachable
+192.168.1.20                                  a4-bb-6d-1f-88-77     Stale
+192.168.1.21                                  00-e0-4c-68-11-22     Reachable
+192.168.1.255                                 ff-ff-ff-ff-ff-ff     Permanent
+224.0.0.22                                    01-00-5e-00-00-16     Permanent
+239.255.255.250                               01-00-5e-7f-ff-fa     Permanent
+
+Interface 5: Ethernet
+
+Internet Address                              Physical Address      Type
+--------------------------------------------  -------------------------------------
+10.0.0.1                                      52-54-00-12-34-56     Reachable

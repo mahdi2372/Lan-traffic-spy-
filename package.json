@@ -1,0 +1,12 @@
+{
+  "name": "lan-watcher-ui-tests",
+  "private": true,
+  "type": "module",
+  "description": "Frontend test harness for LAN Watcher (jsdom + node:test)",
+  "scripts": {
+    "test": "node --test tests/js/*.test.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^30.1.1"
+  }
+}

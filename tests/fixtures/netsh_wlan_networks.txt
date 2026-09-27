@@ -1,0 +1,42 @@
+
+Interface name : Wi-Fi
+There are 3 networks currently visible.
+
+SSID 1 : HomeNet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : 00:11:22:33:44:55
+         Signal             : 92%
+         Radio type         : 802.11ax
+         Channel            : 36
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 00:11:22:33:44:66
+         Signal             : 55%
+         Radio type         : 802.11ac
+         Channel            : 44
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 2 : HomeNet-IoT
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : 00:11:22:33:44:77
+         Signal             : 40%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : CoffeeShop
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None
+    BSSID 1                 : 0c:83:cc:11:22:33
+         Signal             : 20%
+         Radio type         : 802.11n
+         Channel            : 11
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54

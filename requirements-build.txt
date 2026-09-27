@@ -1,0 +1,6 @@
+# LAN Watcher build requirements (runtime is stdlib-only; psutil optional)
+# Install into .venv before running installer/build.sh
+pyinstaller>=6.0
+psutil>=5.9 ; platform_system == "Windows"
+pywebview>=5.0 ; platform_system == "Windows"
+cryptography>=42.0 ; platform_system == "Windows"

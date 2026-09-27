@@ -1,0 +1,5 @@
+192.168.1.1 dev eth0 lladdr 00:11:22:33:44:55 REACHABLE
+192.168.1.20 dev eth0 lladdr a4:bb:6d:1f:88:77 STALE
+192.168.1.21 dev eth0 lladdr 00:e0:4c:68:11:22 DELAY
+192.168.1.99 dev eth0  FAILED
+fe80::1111:2222:3333:4444 dev eth0 lladdr 00:11:22:33:44:55 STALE

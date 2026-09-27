@@ -1,0 +1,8 @@
+00-03-FF   (hex)		MICROSOFT CORPORATION
+00-0A-27   (hex)		Apple, Inc.
+00-11-22   (hex)		CIMSYS Inc
+00-E0-4C   (hex)		Realtek Semiconductor Corp.
+AA-BB-CC   (hex)		TEST VENDOR GMBH
+
+0003FF     (base 16)		MICROSOFT CORPORATION
+000A27     (base 16)		Apple, Inc.

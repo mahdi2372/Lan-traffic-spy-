@@ -1,0 +1,12 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1020
+  TCP    192.168.1.50:52344     8.8.8.8:443            ESTABLISHED     8844
+  TCP    192.168.1.50:52345     192.168.1.20:445       ESTABLISHED     4
+  TCP    192.168.1.50:52346     140.82.121.4:443       TIME_WAIT       0
+  TCP    10.0.0.2:3389          0.0.0.0:0              LISTENING       1188
+  TCP    [2001:db8::100]:53000  [2001:db8::1]:443      ESTABLISHED     8844
+  UDP    0.0.0.0:5353           *:*                                    2100
+  UDP    192.168.1.50:63412     *:*                                    5532

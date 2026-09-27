@@ -67,3 +67,25 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# --- Python / LAN Watcher ---
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+# PyInstaller output
+dist/
+*.spec.bak
+# Node (UI tests)
+node_modules/
+package-lock.json
+# Local runtime data (never commit)
+*.db
+*.db-wal
+*.db-shm
+secret.key
