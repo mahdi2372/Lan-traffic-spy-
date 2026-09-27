@@ -43,11 +43,11 @@ jobs:
           pip install -r requirements-build.txt
       - name: PyInstaller
         run: pyinstaller --clean --noconfirm installer/lanwatcher.spec
-      - name: Inno Setup
-        uses: Minionguy7pro/Inno-Setup-Action@v1.2.2
-        with:
-          iss: installer/LanWatcher.iss
-          additional-options: /Qp
+      - name: Install Inno Setup
+        run: choco install innosetup -y --no-progress
+      - name: Build installer
+        shell: pwsh
+        run: '& "C:\Program Files (x86)\Inno Setup 6\ISCC.exe" "installer\LanWatcher.iss" /Qp'
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
