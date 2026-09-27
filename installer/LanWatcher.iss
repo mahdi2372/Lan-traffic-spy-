@@ -8,7 +8,7 @@
 #define AppExeName "LANWatcher.exe"
 
 [Setup]
-AppId={{7F3B5C21-9E14-4C86-A6D0-LANWATCHER001}
+AppId={{7F3B5C21-9E14-4C86-A6D0-5A1E0001ABCD}
 AppName={#AppName}
 AppVersion={#AppVersion}
 AppPublisher={#AppPublisher}
